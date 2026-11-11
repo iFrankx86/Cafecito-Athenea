@@ -1,0 +1,6 @@
+{
+  "name": "Café & Roscas | Control",
+  "description": "Plataforma web mobile-first de ventas, inventario por recetas y control financiero en PEN (S/).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
